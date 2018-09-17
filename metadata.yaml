@@ -1,0 +1,39 @@
+_repo: The-Mentor-Rembrandt-Vol-4-Num-20-Serial-No-120-December-1-1916_52178
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rembrandt Harmenszoon van Rijn
+    aliases:
+    - Rijn, Rembrandt Harmenszoon van
+    - Van Rijn, Rembrandt Harmenszoon
+    birthdate: 1606
+    deathdate: 1669
+    gutenberg_agent_id: '7232'
+    url: http://www.gutenberg.org/2009/agents/7232
+creator:
+  author:
+    agent_name: Van Dyke, John Charles
+    aliases:
+    - Dyke, John C. Van
+    - Dyke, John Charles Van
+    - Van Dyke, John C. (John Charles)
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '7733'
+    url: http://www.gutenberg.org/2009/agents/7733
+    wikipedia: http://en.wikipedia.org/wiki/John_Charles_Van_Dyke
+description: ''
+gutenberg_issued: '2016-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52178'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rembrandt Harmenszoon van Rijn, 1606-1669'
+- !lcc 'ND'
+- GITenberg
+title: 'The Mentor: Rembrandt, Vol. 4, Num. 20, Serial No. 120, December 1, 1916'
+url: http://www.gutenberg.org/ebooks/52178
